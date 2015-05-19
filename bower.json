@@ -1,6 +1,6 @@
 {
-  "name": "angular-slick",
-  "version": "0.2.1",
+  "name": "angular-slick-ng",
+  "version": "0.2.2",
   "main": "dist/slick.js",
   "ignore": [
     "app",
@@ -23,6 +23,6 @@
     "slick-carousel": "~1.4.1"
   },
   "author": {
-    "name": "Vasyl Stanislavchuk"
+    "name": "Nerijus Gaivenis"
   }
 }
