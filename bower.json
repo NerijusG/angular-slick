@@ -1,6 +1,6 @@
 {
   "name": "angular-slick-ng-fork",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "main": "dist/slick.js",
   "ignore": [
     "app",
@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "angular": "~1.3.0",
-    "slick-ng": "~1.5.7"
+    "slick-carousel": "~1.4.1"
   },
   "author": {
     "name": "Nerijus Gaivenis"
